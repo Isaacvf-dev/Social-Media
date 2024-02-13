@@ -30,8 +30,8 @@ This is a project of the [Social Media's Feed - Rocketseat](https://app.rocketse
 
 ### Links
 
-- Live Site URL: [@Netlify](https://notesappy.netlify.app/)
-- Solution URL: [@GitHub](https://github.com/Isaacvf-dev/Notes-app)
+- Live Site URL: [@Netlify](https://feedysocialmedia.netlify.app/)
+- Solution URL: [@GitHub](https://github.com/Isaacvf-dev/Social-Media)
 
 ### Getting Started with Create React App
 
